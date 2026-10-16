@@ -45,7 +45,7 @@ main {
 	display: grid;
 	place-items: center;
 	padding: 48px 20px;
-	background: var(--color-light);
+
 }
 
 .home-content {
@@ -126,7 +126,7 @@ main {
 	width: 100%;
 	min-width: 560px;
 	border-collapse: collapse;
-	background: var(--color-white);
+
 }
 
 .product-table th,
@@ -137,7 +137,7 @@ main {
 }
 
 .product-table th {
-	background: var(--color-light);
+
 	color: var(--color-black);
 }
 

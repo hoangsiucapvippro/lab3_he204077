@@ -47,7 +47,7 @@ function Pagination({ products }) {
             ))
           ) : (
             <tr>
-              <td colSpan="5">Không tìm thấy sản phẩm phù hợp.</td>
+              <td colSpan="5">Không tìm thấy sản phẩm</td>
             </tr>
           )}
         </tbody>

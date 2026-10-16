@@ -9,7 +9,7 @@ function ProductDetail() {
   if (!product) {
     return (
       <section className="product-detail-page">
-        <h1>Không tìm thấy sản phẩm</h1>
+
         <Link to="/products">Quay lại danh sách sản phẩm</Link>
       </section>
     );
